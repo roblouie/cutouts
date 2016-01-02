@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="LevelEditor.PlayableSurface">
+    <playableSectors>
+      <Item>
+        <SectorRec>0 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>640 360</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>640 0</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>0 0</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>0 360</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>360 150</position>
+            <type>3</type>
+          </Item>
+          <Item>
+            <position>390 370</position>
+            <type>12</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>1030 670 440 110</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>-80 670 1230 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>0 0 30 690</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions />
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>1280 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>1280 0</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>1280 360</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>1920 0</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>1600 120</position>
+            <type>6</type>
+          </Item>
+          <Item>
+            <position>1920 360</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>1670 290</position>
+            <type>12</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>2300 670 340 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>1170 670 1200 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions />
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>2560 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>2560 360</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>3200 0</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>2560 0</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>3200 360</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>2780 130</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>2960 380</position>
+            <type>12</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>3480 670 390 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>2480 670 1080 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions />
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>3840 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>4480 360</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>3840 360</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>3840 0</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>4480 0</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>4300 140</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>4220 350</position>
+            <type>12</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>4790 670 390 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>3800 670 1060 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions />
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>5120 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>5120 0</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>5120 360</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>5760 0</position>
+            <type>5</type>
+          </Item>
+          <Item>
+            <position>5760 360</position>
+            <type>5</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>6050 670 430 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>5060 670 1030 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions />
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>6400 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>6400 670</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>6760 670</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>7120 670</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>7320 670</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>6400 660</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>6700 660</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>7000 660</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>7300 660</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>7600 660</position>
+            <type>9</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>7140 670 670 90</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>6370 670 820 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions />
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>7680 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>7680 670</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>8040 670</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>8400 670</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>8760 670</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>7680 660</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7760 660</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>8060 660</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>8360 660</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>8660 660</position>
+            <type>8</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>7630 670 900 50</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>8515 670 570 40</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions />
+        <collectiblePositions>8090 120 8090 140 8090 160 8090 180 8090 200 8090 100 8090 80 8090 60 8070 60 8050 60 8030 60 8110 60 8130 60 8150 60 8190 60 8190 80 8190 100 8190 120 8190 140 8190 160 8190 180 8190 200 8270 60 8270 80 8270 100 8270 120 8270 140 8270 160 8270 180 8270 200 8210 130 8230 130 8250 130 8310 60 8310 80 8310 100 8310 120 8310 140 8310 160 8310 180 8310 200 8330 60 8350 60 8370 60 8330 130 8350 130 8370 130 8330 200 8350 200 8370 200 8040 260 8040 280 8040 300 8040 320 8040 340 8040 360 8040 380 8040 400 8040 420 8060 420 8080 420 8100 420 8060 340 8080 340 8100 340 8060 260 8080 260 8100 260 8140 420 8140 400 8140 380 8140 360 8140 340 8140 320 8140 300 8140 280 8140 260 8160 270 8170 290 8180 310 8190 330 8200 350 8210 370 8220 390 8230 410 8240 420 8240 400 8240 380 8240 360 8240 340 8240 320 8240 300 8240 280 8240 260 8280 260 8280 280 8280 300 8280 320 8280 340 8280 360 8280 380 8280 400 8280 420 8300 420 8320 410 8330 390 8340 370 8350 350 8350 330 8350 310 8340 290 8330 270 8320 260 8300 260</collectiblePositions>
+      </Item>
+    </playableSectors>
+    <artFiles>
+      <Item>Levels\TheEnd\art</Item>
+      <Item>Levels\TheEnd\black</Item>
+      <Item>Levels\TheEnd\by</Item>
+      <Item>Levels\TheEnd\createdBy</Item>
+      <Item>Levels\TheEnd\enemies</Item>
+      <Item>Levels\TheEnd\fading</Item>
+      <Item>Levels\TheEnd\gameEngine</Item>
+      <Item>Levels\TheEnd\grassLeftEnd</Item>
+      <Item>Levels\TheEnd\grassMiddle</Item>
+      <Item>Levels\TheEnd\grassRighEnd</Item>
+      <Item>Levels\TheEnd\halfGround</Item>
+      <Item>Levels\TheEnd\music</Item>
+      <Item>Levels\TheEnd\robLouie</Item>
+     </artFiles>
+    <enemyFiles />
+    <hatPositions />
+  </Asset>
+</XnaContent>

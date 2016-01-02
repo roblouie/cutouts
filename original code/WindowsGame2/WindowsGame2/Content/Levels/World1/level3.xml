@@ -1,0 +1,3383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="LevelEditor.PlayableSurface">
+    <playableSectors>
+      <Item>
+        <SectorRec>0 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>820 400</position>
+            <type>2</type>
+          </Item>
+          <Item>
+            <position>330 380</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>310 390</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>0 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>520 390</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>0 300</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>1050 380</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>810 380</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>360 300</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>710 300</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>920 300</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>0 290</position>
+            <type>3</type>
+          </Item>
+          <Item>
+            <position>80 290</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>380 290</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>320 390</position>
+            <type>2</type>
+          </Item>
+          <Item>
+            <position>820 400</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>680 290</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>980 290</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>360 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>720 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>920 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>0 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>100 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>200 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>300 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>400 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>500 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>600 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>700 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>800 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>900 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>1000 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>1100 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>1180 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>0 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>100 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>200 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>300 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>400 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>500 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>600 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>700 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>800 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>900 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>1000 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>1100 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>1200 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>0 400</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>0 490</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>0 560</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>100 400</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>100 460</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>100 520</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>100 580</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>70 370</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>1280 290</position>
+            <type>5</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>0 0 20 390</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>20 300 1260 50</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>20 350 1320 20</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>0 370 120 330</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>120 640 1190 60</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>110 350 1170 40</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>90 640 60 50</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>1</enemyTexture>
+            <enemyType>Rabbit</enemyType>
+            <position>960 200</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>380 540</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>700 530</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>1170 530</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>510 300</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions>140 440 180 440 220 440 260 440 140 480 180 480 220 480 260 480 140 520 180 520 220 520 260 520 140 560 180 560 220 560 260 560 320 500 390 500 460 500 510 500 580 500 640 500 730 500 860 500 1050 500 690 500 360 500 430 500 550 500 610 500 1230 500</collectiblePositions>
+      </Item>
+      <Item>
+        <SectorRec>1280 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>1250 300</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>1350 300</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>1280 290</position>
+            <type>5</type>
+          </Item>
+          <Item>
+            <position>1350 340</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>1250 400</position>
+            <type>0</type>
+          </Item>
+          <Item>
+            <position>1280 640</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>1380 640</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>1480 640</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>1580 640</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>1680 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>1280 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>1380 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>1480 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>1980 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>1580 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>1680 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>1680 640</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>1680 700</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>1780 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>1880 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>1980 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>2080 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>2070 640</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>2080 630</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>2280 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>2340 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>2440 640</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>2460 640</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>2460 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>2430 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>980 290</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>1780 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>1880 620</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>1280 300 70 50</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>1280 350 70 40</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>1280 640 390 80</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>1640 640 40 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>2070 640 460 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>2510 640 90 70</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>1680 660 420 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>1300 300 50 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>2</enemyTexture>
+            <enemyType>Bee</enemyType>
+            <position>1520 280</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>2560 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>2660 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>2560 640</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>2560 630</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>2660 640</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>2660 670</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>2780 470</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>3210 510</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>2790 520</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>2990 500</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>2780 510</position>
+            <type>2</type>
+          </Item>
+          <Item>
+            <position>2950 500</position>
+            <type>2</type>
+          </Item>
+          <Item>
+            <position>2770 510</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>3520 510</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>3520 320</position>
+            <type>2</type>
+          </Item>
+          <Item>
+            <position>3510 330</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>2760 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>2860 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>2960 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3060 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3150 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3250 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3340 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3430 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3520 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3620 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3720 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3740 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>2660 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>2760 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>2860 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>2960 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>3060 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>3160 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>3260 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>3360 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>3460 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>3560 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>3670 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>3770 620</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>2520 640 110 60</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>2590 640 70 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>2780 480 480 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>3510 340 320 40</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>2660 660 1210 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>3070 380</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions>2860 410 2940 410 3020 410 3100 410 3180 410 3600 280 3740 280 3670 210</collectiblePositions>
+      </Item>
+      <Item>
+        <SectorRec>3840 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>4090 330</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>4150 330</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>4140 530</position>
+            <type>2</type>
+          </Item>
+          <Item>
+            <position>4750 550</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>4820 570</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>4920 570</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>3840 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3940 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>4030 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>4120 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>4220 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>4320 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>4420 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>4520 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>4620 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>4710 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>4810 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>4910 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5000 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5020 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>3820 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>3920 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>4020 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>4120 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>4220 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>4320 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>4420 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>4520 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>4620 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>4720 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>4820 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>4910 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5010 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5100 620</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>4090 340 320 40</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>4750 560 320 40</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>3840 660 1310 100</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>2</enemyTexture>
+            <enemyType>Bee</enemyType>
+            <position>3880 240</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions>4160 280 4300 280 4230 200</collectiblePositions>
+      </Item>
+      <Item>
+        <SectorRec>5120 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>5340 490</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>5540 510</position>
+            <type>2</type>
+          </Item>
+          <Item>
+            <position>5550 520</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>5340 530</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>5440 330</position>
+            <type>15</type>
+          </Item>
+          <Item>
+            <position>5780 500</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>5720 490</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>5120 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5220 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5320 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5420 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5520 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5620 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5710 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5800 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5900 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>6000 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>6100 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>6200 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>6300 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>5100 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5200 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5300 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5400 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5500 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5600 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5700 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5700 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5800 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>5900 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>6000 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>6100 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>6200 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>6300 620</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>5340 500 480 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>5820 510 280 30</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>5550 340 80 150</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>5620 400 120 100</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>5620 370 30 30</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>5500 410 50 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>5460 460 50 40</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>5740 440 30 50</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>5760 460 50 40</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>5120 660 1330 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions />
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>6400 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>7240 410</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7230 410</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>6700 500</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>6700 590</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>6600 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>6700 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>6690 500</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>6590 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>6690 600</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>6410 500</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>6690 700</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>6490 500</position>
+            <type>2</type>
+          </Item>
+          <Item>
+            <position>7050 500</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7050 590</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7050 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7320 500</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7320 590</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7320 620</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>6990 490</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>6700 490</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>6820 340</position>
+            <type>16</type>
+          </Item>
+          <Item>
+            <position>7320 410</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7180 490</position>
+            <type>3</type>
+          </Item>
+          <Item>
+            <position>7560 490</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>7240 310</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7320 310</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7310 300</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>7260 490</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>7610 300</position>
+            <type>5</type>
+          </Item>
+          <Item>
+            <position>7230 310</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>7230 300</position>
+            <type>3</type>
+          </Item>
+          <Item>
+            <position>6400 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>6500 660</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>6400 620</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>6500 620</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>6410 510 320 40</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>6700 500 1090 220</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>6900 360 90 130</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>7230 310 450 30</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>6370 660 320 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>6540 420</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>7530 410</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>7500 210</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>7280 210</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions>7280 230 7360 230 7440 230 7520 230 7600 230</collectiblePositions>
+      </Item>
+      <Item>
+        <SectorRec>7680 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>7760 500</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7680 500</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7680 600</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7680 640</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7760 600</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7760 630</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7860 620</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>8210 620</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>8470 500</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>8160 500</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>8830 500</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>8460 490</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>8760 490</position>
+            <type>5</type>
+          </Item>
+          <Item>
+            <position>7840 500</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7680 400</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>8160 490</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>8040 440</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>7560 490</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>7860 490</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>7850 580</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>8200 580</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>8470 600</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>8830 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>8830 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>8470 620</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>8830 660</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>8830 600</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>8830 550</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>7700 220</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7690 240</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>8000 260</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>7900 220</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7800 220</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7680 310</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>7680 300</position>
+            <type>4</type>
+          </Item>
+          <Item>
+            <position>8040 320</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>7980 300</position>
+            <type>5</type>
+          </Item>
+          <Item>
+            <position>8040 380</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>7700 140</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7800 140</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>7900 140</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>8000 140</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>8000 200</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>7690 140</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>7690 130</position>
+            <type>3</type>
+          </Item>
+          <Item>
+            <position>7770 130</position>
+            <type>5</type>
+          </Item>
+          <Item>
+            <position>7850 130</position>
+            <type>3</type>
+          </Item>
+          <Item>
+            <position>7930 130</position>
+            <type>5</type>
+          </Item>
+          <Item>
+            <position>8930 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>8930 630</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>7660 310 380 30</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>7695 145 310 30</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>7630 500 1200 220</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>8800 500 40 210</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>8820 670 170 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>1</enemyTexture>
+            <enemyType>Rabbit</enemyType>
+            <position>8080 380</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>7960 220</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>7690 210</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions>7690 230 7760 230 7830 230 7900 230 7970 230 7720 90 7770 90 7820 90 7870 90 7920 90 7970 90 7940 60 7890 60 7840 60 7790 60 7740 60 7770 30 7820 30 7870 30 7920 30 7800 0 7850 0 7900 0</collectiblePositions>
+      </Item>
+      <Item>
+        <SectorRec>8960 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>9110 520</position>
+            <type>2</type>
+          </Item>
+          <Item>
+            <position>9810 420</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>9110 520</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>9010 510</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>9730 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>9810 620</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>9810 520</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>9850 420</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>9800 420</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>9800 410</position>
+            <type>3</type>
+          </Item>
+          <Item>
+            <position>9950 420</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>9880 410</position>
+            <type>5</type>
+          </Item>
+          <Item>
+            <position>9850 510</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>9850 580</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>9850 630</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>9950 480</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>9950 540</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>9950 680</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>9950 640</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>9950 600</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>9950 660</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>9710 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>9800 520</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>9800 620</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>8960 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>9060 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>9160 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>9250 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>9350 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>9450 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>9540 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>9620 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>10050 680</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>10130 680</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>10140 680</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>8940 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>9030 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>9130 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>9230 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>9330 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>9430 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>9530 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>9630 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>10050 640</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>10150 640</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>9010 520 490 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>9800 420 160 300</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>8960 670 1300 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>9290 450</position>
+          </Item>
+          <Item>
+            <enemyTexture>2</enemyTexture>
+            <enemyType>Bee</enemyType>
+            <position>9600 340</position>
+          </Item>
+          <Item>
+            <enemyTexture>2</enemyTexture>
+            <enemyType>Bee</enemyType>
+            <position>10080 560</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>10240 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>10240 680</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>10420 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>10280 650</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>10210 640</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>10280 580</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>10620 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>10280 510</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>10280 460</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>10800 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>10320 460</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>10270 460</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>10320 540</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>10320 640</position>
+            <type>7</type>
+          </Item>
+          <Item>
+            <position>10270 450</position>
+            <type>3</type>
+          </Item>
+          <Item>
+            <position>10420 460</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>10350 450</position>
+            <type>5</type>
+          </Item>
+          <Item>
+            <position>10420 530</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>10420 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>10420 520</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>10420 590</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>10420 650</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>10420 680</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>10270 560</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>10270 660</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>10230 290</position>
+            <type>16</type>
+          </Item>
+          <Item>
+            <position>10520 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>10620 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>10720 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11100 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>10810 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>10590 380</position>
+            <type>13</type>
+          </Item>
+          <Item>
+            <position>10900 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>10990 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11090 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11190 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11290 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11140 390</position>
+            <type>13</type>
+          </Item>
+          <Item>
+            <position>11380 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11420 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>10520 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>10900 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>11000 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>11350 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>11450 630</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>10310 310 90 140</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>10280 460 140 250</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>10640 410 160 300</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>11190 420 160 310</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>10240 680 1290 50</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>2</enemyTexture>
+            <enemyType>Bee</enemyType>
+            <position>10960 310</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>11520 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>12410 510</position>
+            <type>15</type>
+          </Item>
+          <Item>
+            <position>11520 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11620 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11820 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>11720 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11820 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11650 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>11920 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11620 430</position>
+            <type>13</type>
+          </Item>
+          <Item>
+            <position>11810 430</position>
+            <type>13</type>
+          </Item>
+          <Item>
+            <position>11950 440</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>12020 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11690 440</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>11960 440</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>12120 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>12220 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>12310 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>12400 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>12500 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>12590 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>12690 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>12710 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>11450 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>11550 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12040 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12140 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12240 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12340 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12440 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12540 640</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12540 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12640 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12740 630</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>11670 460 350 290</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12020 450 260 40</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12520 520 90 150</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12460 590 60 70</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12420 650 250 40</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12440 620 20 20</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12600 560 40 90</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12640 570 50 100</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12690 570 30 110</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12700 620 40 50</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12740 640 50 50</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12020 670 820 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>11670 450 380 40</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12460 590 260 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions />
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>12800 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>12900 530</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>13380 530</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>13370 530</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>13820 540</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>12900 560</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>12980 370</position>
+            <type>16</type>
+          </Item>
+          <Item>
+            <position>13420 370</position>
+            <type>15</type>
+          </Item>
+          <Item>
+            <position>13740 530</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>12800 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>12900 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13000 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13090 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13190 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13290 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13380 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13470 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13560 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13660 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13760 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13850 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13930 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>13980 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>12790 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12890 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>12990 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>13090 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>13190 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>13290 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>13390 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>13490 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>13590 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>13690 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>13790 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>13890 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>13990 630</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>12900 540 980 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>13060 390 90 140</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>13530 380 90 170</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>13470 450 70 90</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>13440 500 50 40</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>13420 520 30 20</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>13620 410 20 50</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>13640 430 60 110</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>13700 440 30 100</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>13730 500 60 40</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>13880 540 180 40</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>12800 670 1320 60</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>1</enemyTexture>
+            <enemyType>Rabbit</enemyType>
+            <position>13290 420</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>14080 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>14590 260</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>14320 530</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>14610 300</position>
+            <type>1</type>
+          </Item>
+          <Item>
+            <position>14870 290</position>
+            <type>2</type>
+          </Item>
+          <Item>
+            <position>14850 270</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>14590 530</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>15130 260</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>14860 530</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>14860 230</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>14380 230</position>
+            <type>10</type>
+          </Item>
+          <Item>
+            <position>14080 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15130 540</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>15130 530</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>14590 540</position>
+            <type>19</type>
+          </Item>
+          <Item>
+            <position>14180 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>14280 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>14380 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>14480 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>14570 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>14670 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>14770 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>14870 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>14960 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15060 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15150 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15240 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15260 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>14050 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>14150 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>14250 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>14350 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>14450 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>14550 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>14650 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>14750 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>14850 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>14950 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>15050 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>15150 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>15250 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>15350 630</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>14380 240 960 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>14320 540 1050 40</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>14080 670 1380 110</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>14450 460</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>14660 460</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>14830 460</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>15010 450</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>15210 460</position>
+          </Item>
+          <Item>
+            <enemyTexture>2</enemyTexture>
+            <enemyType>Bee</enemyType>
+            <position>14170 250</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions>14440 180 14440 150 14440 120 14440 90 14440 60 14380 30 14410 30 14440 30 14470 30 14500 30 14550 30 14550 70 14550 110 14550 160 14550 190 14580 110 14610 110 14640 110 14640 70 14640 30 14640 150 14640 190 14690 190 14700 160 14710 120 14720 80 14730 50 14750 30 14770 60 14790 90 14800 130 14810 160 14820 190 14740 140 14770 140 14860 190 14860 160 14860 120 14860 80 14860 40 14890 70 14910 100 14930 140 14940 170 14960 200 14960 160 14960 110 14960 80 14960 40 15020 40 15020 70 15020 100 15020 130 15020 160 15020 200 15090 40 15080 70 15060 100 15050 130 15070 160 15090 180 15100 200 15190 60 15170 40 15140 40 15120 70 15130 100 15160 120 15180 150 15190 190 15160 200 15140 180 15260 40 15260 80 15260 110 15260 140 15260 200 15260 60</collectiblePositions>
+      </Item>
+      <Item>
+        <SectorRec>15360 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>15410 530</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>15140 530</position>
+            <type>12</type>
+          </Item>
+          <Item>
+            <position>15890 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15950 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>15990 620</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>16280 620</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>15980 620</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>15990 610</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>16190 610</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>16390 610</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>16540 610</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>15360 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15460 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15560 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15660 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15750 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15840 670</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>15350 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>15450 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>15550 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>15650 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>15750 630</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>15850 630</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>15340 540 390 40</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>15980 620 710 110</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>15980 620 50 100</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>15300 670 700 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>15410 450</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>15620 450</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>16020 510</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>16640 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>16640 620</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>16640 610</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>16740 610</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>16840 610</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>17360 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>17000 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17000 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>16900 610</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>17000 620</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>17000 680</position>
+            <type>9</type>
+          </Item>
+          <Item>
+            <position>17090 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17180 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17750 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>17270 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17150 590</position>
+            <type>13</type>
+          </Item>
+          <Item>
+            <position>17360 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17450 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17540 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17640 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17560 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>17740 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17550 460</position>
+            <type>13</type>
+          </Item>
+          <Item>
+            <position>17820 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17100 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>17460 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>17850 610</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>17200 610 160 110</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>17600 480 160 270</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>17000 650 940 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>16570 620 420 120</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>16960 620 50 90</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>16820 500</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions>17220 540 17300 540 17660 400</collectiblePositions>
+      </Item>
+      <Item>
+        <SectorRec>17920 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>18540 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>18540 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>18640 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>18840 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>18630 640</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>18640 630</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>18840 630</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>19040 630</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>18790 470</position>
+            <type>15</type>
+          </Item>
+          <Item>
+            <position>17920 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>18240 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>18020 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>18110 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>18100 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>18200 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>18290 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>18060 380</position>
+            <type>13</type>
+          </Item>
+          <Item>
+            <position>18380 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>18460 650</position>
+            <type>20</type>
+          </Item>
+          <Item>
+            <position>17900 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>18000 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>18440 610</position>
+            <type>21</type>
+          </Item>
+          <Item>
+            <position>18340 610</position>
+            <type>21</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>18110 410 160 260</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>18630 640 720 100</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>18630 640 60 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>18900 480 80 160</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>18840 550 60 90</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>18810 590 40 50</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>18790 620 30 20</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>18970 500 30 130</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>19000 530 60 110</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>19060 540 40 90</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>19100 600 60 40</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>17920 650 720 80</collisionBox>
+            <passable>false</passable>
+            <killsYou>true</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions />
+        <collectiblePositions>18140 330 18210 330 18180 270</collectiblePositions>
+      </Item>
+      <Item>
+        <SectorRec>19200 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>19200 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>19560 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>19910 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20120 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>19530 540</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>19890 540</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>19890 450</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>19890 440</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20120 340</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20120 430</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20120 540</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20120 520</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>19200 630</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>19330 630</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>19520 540</position>
+            <type>8</type>
+          </Item>
+          <Item>
+            <position>19530 530</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>19730 530</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>19790 530</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>19880 440</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>20110 340</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>19890 430</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>20040 430</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>20120 330</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>20220 330</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>20320 330</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>20380 330</position>
+            <type>17</type>
+          </Item>
+          <Item>
+            <position>19550 380</position>
+            <type>16</type>
+          </Item>
+          <Item>
+            <position>20160 170</position>
+            <type>16</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>19160 640 350 100</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>19520 540 640 190</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>19490 640 50 90</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>19630 400 90 140</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>19890 440 600 130</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>20120 340 190 100</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>20240 190 90 140</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>20300 340 770 140</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>1</enemyTexture>
+            <enemyType>Rabbit</enemyType>
+            <position>19300 510</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>20020 340</position>
+          </Item>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>20400 230</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions />
+      </Item>
+      <Item>
+        <SectorRec>20480 0 1280 720</SectorRec>
+        <artPieces>
+          <Item>
+            <position>20480 340</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20480 440</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20480 540</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20480 640</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20840 280</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20840 380</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20840 480</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20840 580</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20840 660</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20840 200</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21200 200</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21210 300</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21200 300</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21200 400</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21190 500</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21200 590</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21200 670</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21550 200</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21540 300</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21540 400</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21540 500</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21540 600</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>21540 660</position>
+            <type>11</type>
+          </Item>
+          <Item>
+            <position>20480 330</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>20640 330</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>20840 190</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>21040 190</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>21240 190</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>21440 190</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>21640 190</position>
+            <type>18</type>
+          </Item>
+          <Item>
+            <position>20830 200</position>
+            <type>14</type>
+          </Item>
+          <Item>
+            <position>20830 240</position>
+            <type>14</type>
+          </Item>
+        </artPieces>
+        <collisionBoxes>
+          <Item>
+            <collisionBox>20400 340 430 140</collisionBox>
+            <passable>true</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>20835 200 850 220</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>20810 340 140 150</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+          <Item>
+            <collisionBox>21430 205 600 210</collisionBox>
+            <passable>false</passable>
+            <killsYou>false</killsYou>
+          </Item>
+        </collisionBoxes>
+        <enemyPositions>
+          <Item>
+            <enemyTexture>0</enemyTexture>
+            <enemyType>GroundCrawler</enemyType>
+            <position>20720 240</position>
+          </Item>
+        </enemyPositions>
+        <collectiblePositions />
+      </Item>
+    </playableSectors>
+    <artFiles>
+      <Item>Levels\World1\bottomEdge</Item>
+      <Item>Levels\World1\diagBoard</Item>
+      <Item>Levels\World1\diagBoard2</Item>
+      <Item>Levels\World1\grassLeftEnd</Item>
+      <Item>Levels\World1\grassMiddle</Item>
+      <Item>Levels\World1\grassRighEnd</Item>
+      <Item>Levels\World1\grassWhole</Item>
+      <Item>Levels\World1\ground100Block</Item>
+      <Item>Levels\World1\groundRighEdge</Item>
+      <Item>Levels\World1\groundRight</Item>
+      <Item>Levels\World1\groundWhole</Item>
+      <Item>Levels\World1\halfGround</Item>
+      <Item>Levels\World1\horBoard</Item>
+      <Item>Levels\World1\largeStump</Item>
+      <Item>Levels\World1\LeftMiddleEdge</Item>
+      <Item>Levels\World1\rocks</Item>
+      <Item>Levels\World1\smallStump</Item>
+      <Item>Levels\World1\topEdge</Item>
+      <Item>Levels\World1\topEdge200</Item>
+      <Item>Levels\World1\verBoard</Item>
+      <Item>Levels\World1\water</Item>
+      <Item>Levels\World1\waterTop</Item>
+    </artFiles>
+    <enemyFiles>
+      <Item>Enemies\groundCrawler</Item>
+      <Item>Enemies\rabbit</Item>
+      <Item>Enemies\bee</Item>
+    </enemyFiles>
+    <hatPositions>6810 360</hatPositions>
+  </Asset>
+</XnaContent>

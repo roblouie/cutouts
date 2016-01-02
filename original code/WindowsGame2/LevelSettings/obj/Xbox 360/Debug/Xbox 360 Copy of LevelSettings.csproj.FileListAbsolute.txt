@@ -1,0 +1,6 @@
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\bin\Xbox 360\Debug\LevelSettings.dll
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\bin\Xbox 360\Debug\LevelSettings.pdb
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\obj\Xbox 360\Debug\LevelSettings.dll
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\obj\Xbox 360\Debug\LevelSettings.pdb

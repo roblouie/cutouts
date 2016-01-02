@@ -1,0 +1,16 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\fantasy.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\artmap.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\artmap3.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\artmap4.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\artmap5.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\artmap6.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\artmap7.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\artmap2.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\collisiontest.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\WindowsGame2.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\WindowsGame2.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\obj\Xbox 360\Debug\WindowsGame2.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\obj\Xbox 360\Debug\WindowsGame2.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\collisionMap1.xnb

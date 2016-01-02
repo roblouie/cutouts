@@ -1,0 +1,2 @@
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache

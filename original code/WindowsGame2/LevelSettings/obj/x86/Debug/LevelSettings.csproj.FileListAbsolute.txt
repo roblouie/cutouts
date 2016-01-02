@@ -1,0 +1,18 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\bin\x86\Debug\LevelSettings.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\bin\x86\Debug\LevelSettings.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\obj\x86\Debug\LevelSettings.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\obj\x86\Debug\LevelSettings.pdb
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\obj\x86\Debug\LevelSettings.dll
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\bin\x86\Debug\LevelSettings.dll
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\bin\x86\Debug\LevelSettings.pdb
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\LevelSettings\obj\x86\Debug\LevelSettings.pdb
+C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\bin\x86\Debug\LevelSettings.dll
+C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\bin\x86\Debug\LevelSettings.pdb
+C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\obj\x86\Debug\LevelSettings.dll
+C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\obj\x86\Debug\LevelSettings.pdb

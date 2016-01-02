@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="LevelEditor.PlayableSurface">
+    <playableSectors>
+      <Item>
+        <SectorRec>0 0 0 0</SectorRec>
+        <collisionBoxes>0 1 2 3 4 5 6 7</collisionBoxes>
+        <enemyPositions Null="true" />
+        <collectiblePositions Null="true" />
+      </Item>
+    </playableSectors>
+    <imageMap Null="true" />
+  </Asset>
+</XnaContent>

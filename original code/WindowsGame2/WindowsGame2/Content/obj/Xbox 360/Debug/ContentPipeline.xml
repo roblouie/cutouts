@@ -1,0 +1,1106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\chiHUD.spritefont</Source>
+      <Name>Fonts\chiHUD</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Fonts\chiHUD.xnb</Output>
+      <Time>2010-06-30T16:42:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\chiMenu.spritefont</Source>
+      <Name>Fonts\chiMenu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Fonts\chiMenu.xnb</Output>
+      <Time>2010-07-01T14:21:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player1\livesMarker.png</Source>
+      <Name>Player1\livesMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Player1\livesMarker.xnb</Output>
+      <Time>2010-06-28T14:08:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>coin.png</Source>
+      <Name>coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\coin.xnb</Output>
+      <Time>2010-06-28T14:17:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel.png</Source>
+      <Name>pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\pixel.xnb</Output>
+      <Time>2010-06-30T21:13:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World1\skyBackground.png</Source>
+      <Name>Backgrounds\World1\skyBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World1\skyBackground.xnb</Output>
+      <Time>2010-07-18T00:51:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World1\backgroundLayer3.png</Source>
+      <Name>Backgrounds\World1\backgroundLayer3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World1\backgroundLayer3.xnb</Output>
+      <Time>2010-07-19T20:20:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World1\backgroundLayer4.png</Source>
+      <Name>Backgrounds\World1\backgroundLayer4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World1\backgroundLayer4.xnb</Output>
+      <Time>2010-07-20T00:27:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World1\backgroundLayer2.png</Source>
+      <Name>Backgrounds\World1\backgroundLayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World1\backgroundLayer2.xnb</Output>
+      <Time>2010-07-20T00:47:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\OpeningScreen.png</Source>
+      <Name>MainMenu\OpeningScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\MainMenu\OpeningScreen.xnb</Output>
+      <Time>2010-07-23T13:40:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\1Player.png</Source>
+      <Name>MainMenu\1Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\MainMenu\1Player.xnb</Output>
+      <Time>2010-09-09T16:00:26.790039-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\2Player.png</Source>
+      <Name>MainMenu\2Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\MainMenu\2Player.xnb</Output>
+      <Time>2010-09-09T16:01:12.9580078-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Exit.png</Source>
+      <Name>MainMenu\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\MainMenu\Exit.xnb</Output>
+      <Time>2010-09-09T16:02:07.4853515-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\smallExplosion.png</Source>
+      <Name>Effects\smallExplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Effects\smallExplosion.xnb</Output>
+      <Time>2010-07-23T15:55:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\bottomEdge.png</Source>
+      <Name>Levels\World1\bottomEdge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\bottomEdge.xnb</Output>
+      <Time>2010-07-29T18:50:27.3007813-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\grassLeftEnd.png</Source>
+      <Name>Levels\World1\grassLeftEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\grassLeftEnd.xnb</Output>
+      <Time>2010-07-29T18:50:27.3310547-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\grassMiddle.png</Source>
+      <Name>Levels\World1\grassMiddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\grassMiddle.xnb</Output>
+      <Time>2010-07-29T18:50:27.3525391-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\grassRighEnd.png</Source>
+      <Name>Levels\World1\grassRighEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\grassRighEnd.xnb</Output>
+      <Time>2010-07-29T18:50:27.4111328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\grassWhole.png</Source>
+      <Name>Levels\World1\grassWhole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\grassWhole.xnb</Output>
+      <Time>2010-07-29T18:50:27.4335938-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\ground100Block.png</Source>
+      <Name>Levels\World1\ground100Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\ground100Block.xnb</Output>
+      <Time>2010-07-29T18:50:27.4589844-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\groundRighEdge.png</Source>
+      <Name>Levels\World1\groundRighEdge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\groundRighEdge.xnb</Output>
+      <Time>2010-07-29T18:50:27.4873047-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\groundWhole.png</Source>
+      <Name>Levels\World1\groundWhole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\groundWhole.xnb</Output>
+      <Time>2010-07-29T18:50:27.5078125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\halfGround.png</Source>
+      <Name>Levels\World1\halfGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\halfGround.xnb</Output>
+      <Time>2010-07-29T18:50:27.5273438-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\horBoard.png</Source>
+      <Name>Levels\World1\horBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\horBoard.xnb</Output>
+      <Time>2010-07-29T18:50:27.546875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\LeftMiddleEdge.png</Source>
+      <Name>Levels\World1\LeftMiddleEdge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\LeftMiddleEdge.xnb</Output>
+      <Time>2010-07-29T18:50:27.5664063-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\rocks.png</Source>
+      <Name>Levels\World1\rocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\rocks.xnb</Output>
+      <Time>2010-07-29T18:50:27.5849609-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\topEdge.png</Source>
+      <Name>Levels\World1\topEdge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\topEdge.xnb</Output>
+      <Time>2010-07-29T18:50:27.6044922-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\topEdge200.png</Source>
+      <Name>Levels\World1\topEdge200</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\topEdge200.xnb</Output>
+      <Time>2010-07-29T18:50:27.6240234-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\verBoard.png</Source>
+      <Name>Levels\World1\verBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\verBoard.xnb</Output>
+      <Time>2010-07-29T18:50:27.6435547-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\bee.png</Source>
+      <Name>Enemies\bee</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Enemies\bee.xnb</Output>
+      <Time>2010-08-03T18:55:27.5058594-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\rabbit.png</Source>
+      <Name>Enemies\rabbit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Enemies\rabbit.xnb</Output>
+      <Time>2010-08-08T19:48:33.9716797-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\bat.png</Source>
+      <Name>Enemies\bat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Enemies\bat.xnb</Output>
+      <Time>2010-08-09T18:43:23.5107422-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World2\mountains1.png</Source>
+      <Name>Backgrounds\World2\mountains1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World2\mountains1.xnb</Output>
+      <Time>2010-08-09T22:28:15.3232422-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World2\mountains2.png</Source>
+      <Name>Backgrounds\World2\mountains2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World2\mountains2.xnb</Output>
+      <Time>2010-08-09T22:20:38.0146484-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World2\mountains3.png</Source>
+      <Name>Backgrounds\World2\mountains3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World2\mountains3.xnb</Output>
+      <Time>2010-08-09T22:26:00.125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World2\mountainsSky.png</Source>
+      <Name>Backgrounds\World2\mountainsSky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World2\mountainsSky.xnb</Output>
+      <Time>2010-08-09T21:59:48.7304688-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World3\nightSky.png</Source>
+      <Name>Backgrounds\World3\nightSky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World3\nightSky.xnb</Output>
+      <Time>2010-08-10T15:49:36.9267578-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World3\farStars.png</Source>
+      <Name>Backgrounds\World3\farStars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World3\farStars.xnb</Output>
+      <Time>2010-08-10T15:49:47.2714843-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World3\middleStars.png</Source>
+      <Name>Backgrounds\World3\middleStars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World3\middleStars.xnb</Output>
+      <Time>2010-08-10T15:49:53.8847656-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\World3\closeStars.png</Source>
+      <Name>Backgrounds\World3\closeStars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Backgrounds\World3\closeStars.xnb</Output>
+      <Time>2010-08-10T15:49:59.5595703-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\groundJumper.png</Source>
+      <Name>Enemies\groundJumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Enemies\groundJumper.xnb</Output>
+      <Time>2010-08-10T17:39:19.6884765-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\groundCrawler.png</Source>
+      <Name>Enemies\groundCrawler</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Enemies\groundCrawler.xnb</Output>
+      <Time>2010-08-10T18:41:40.5966797-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\puffBall.png</Source>
+      <Name>Effects\puffBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Effects\puffBall.xnb</Output>
+      <Time>2010-08-12T14:29:22.7792969-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player1\MainCharacter3.png</Source>
+      <Name>Player1\MainCharacter3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Player1\MainCharacter3.xnb</Output>
+      <Time>2010-08-20T14:07:52.0410156-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player1\hat.png</Source>
+      <Name>Player1\hat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Player1\hat.xnb</Output>
+      <Time>2010-08-12T16:27:06.3857422-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\diagBoard2.png</Source>
+      <Name>Levels\World1\diagBoard2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\diagBoard2.xnb</Output>
+      <Time>2010-08-18T15:08:42.2333984-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\diagBoard.png</Source>
+      <Name>Levels\World1\diagBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\diagBoard.xnb</Output>
+      <Time>2010-08-18T15:08:51.1025391-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\largeStump.png</Source>
+      <Name>Levels\World1\largeStump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\largeStump.xnb</Output>
+      <Time>2010-08-18T15:09:00.2724609-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\smallStump.png</Source>
+      <Name>Levels\World1\smallStump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\smallStump.xnb</Output>
+      <Time>2010-08-18T15:09:08.4746094-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\groundRight.png</Source>
+      <Name>Levels\World1\groundRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\groundRight.xnb</Output>
+      <Time>2010-08-18T15:09:35.6279297-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\water.png</Source>
+      <Name>Levels\World1\water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\water.xnb</Output>
+      <Time>2010-08-18T15:11:08.3583984-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\waterTop.png</Source>
+      <Name>Levels\World1\waterTop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\waterTop.xnb</Output>
+      <Time>2010-08-20T12:52:34.71875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\diagBoard.png</Source>
+      <Name>Levels\World2\diagBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\diagBoard.xnb</Output>
+      <Time>2010-08-22T17:01:20.471375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\diagBoard2.png</Source>
+      <Name>Levels\World2\diagBoard2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\diagBoard2.xnb</Output>
+      <Time>2010-08-22T17:01:44.408875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\horBoard.png</Source>
+      <Name>Levels\World2\horBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\horBoard.xnb</Output>
+      <Time>2010-08-21T17:32:39.2695313-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\largeGround.png</Source>
+      <Name>Levels\World2\largeGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\largeGround.xnb</Output>
+      <Time>2010-08-20T11:26:27.3554687-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\largeStump.png</Source>
+      <Name>Levels\World2\largeStump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\largeStump.xnb</Output>
+      <Time>2010-08-15T16:56:35.5500312-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\leftDirt.png</Source>
+      <Name>Levels\World2\leftDirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\leftDirt.xnb</Output>
+      <Time>2010-08-20T12:06:55.6357421-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\longDirt.png</Source>
+      <Name>Levels\World2\longDirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\longDirt.xnb</Output>
+      <Time>2010-08-20T11:57:56.6210937-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\oneSpke.png</Source>
+      <Name>Levels\World2\oneSpke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\oneSpke.xnb</Output>
+      <Time>2010-08-21T17:11:25.3964844-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\rightDirt.png</Source>
+      <Name>Levels\World2\rightDirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\rightDirt.xnb</Output>
+      <Time>2010-08-20T12:08:09.196289-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\rockEdgeBottom.png</Source>
+      <Name>Levels\World2\rockEdgeBottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\rockEdgeBottom.xnb</Output>
+      <Time>2010-08-22T17:08:28.0192266-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\rockEdgeLeft.png</Source>
+      <Name>Levels\World2\rockEdgeLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\rockEdgeLeft.xnb</Output>
+      <Time>2010-08-24T23:42:52.4023438-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\rockEdgeTop.png</Source>
+      <Name>Levels\World2\rockEdgeTop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\rockEdgeTop.xnb</Output>
+      <Time>2010-08-24T23:45:42.8300782-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\rockEdgeVer.png</Source>
+      <Name>Levels\World2\rockEdgeVer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\rockEdgeVer.xnb</Output>
+      <Time>2010-08-22T17:07:25.431336-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\smallGround.png</Source>
+      <Name>Levels\World2\smallGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\smallGround.xnb</Output>
+      <Time>2010-08-24T23:44:42.0498047-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\smallStump.png</Source>
+      <Name>Levels\World2\smallStump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\smallStump.xnb</Output>
+      <Time>2010-08-15T16:31:31.5519843-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\threeSpikes.png</Source>
+      <Name>Levels\World2\threeSpikes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\threeSpikes.xnb</Output>
+      <Time>2010-08-21T17:04:11.5683594-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\verBoard.png</Source>
+      <Name>Levels\World2\verBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\verBoard.xnb</Output>
+      <Time>2010-08-21T17:31:32.6455079-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\dirtMiddle.png</Source>
+      <Name>Levels\World2\dirtMiddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\dirtMiddle.xnb</Output>
+      <Time>2010-08-24T00:19:15.5019531-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\rockMan.png</Source>
+      <Name>Enemies\rockMan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Enemies\rockMan.xnb</Output>
+      <Time>2010-08-24T15:02:12.7158204-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\diagBoard.png</Source>
+      <Name>Levels\World3\diagBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\diagBoard.xnb</Output>
+      <Time>2010-08-29T17:31:44.1181641-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\diagBoard2.png</Source>
+      <Name>Levels\World3\diagBoard2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\diagBoard2.xnb</Output>
+      <Time>2010-08-29T17:32:08.7939453-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\horBoard.png</Source>
+      <Name>Levels\World3\horBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\horBoard.xnb</Output>
+      <Time>2010-08-29T17:29:29.5625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\iceEdgeBottom.png</Source>
+      <Name>Levels\World3\iceEdgeBottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\iceEdgeBottom.xnb</Output>
+      <Time>2010-08-29T23:25:03.1308594-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\iceEdgeLeft.png</Source>
+      <Name>Levels\World3\iceEdgeLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\iceEdgeLeft.xnb</Output>
+      <Time>2010-08-29T23:25:23.6806641-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\iceEdgeRight.png</Source>
+      <Name>Levels\World3\iceEdgeRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\iceEdgeRight.xnb</Output>
+      <Time>2010-08-29T23:24:39.5527344-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\iceEdgeTop.png</Source>
+      <Name>Levels\World3\iceEdgeTop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\iceEdgeTop.xnb</Output>
+      <Time>2010-08-29T23:25:43.8886719-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\iceLong.png</Source>
+      <Name>Levels\World3\iceLong</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\iceLong.xnb</Output>
+      <Time>2010-08-29T22:49:59.8398438-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\iceRightEdge.png</Source>
+      <Name>Levels\World3\iceRightEdge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\iceRightEdge.xnb</Output>
+      <Time>2010-08-29T23:38:59.4931641-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\iceSmall.png</Source>
+      <Name>Levels\World3\iceSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\iceSmall.xnb</Output>
+      <Time>2010-08-29T22:50:50.9082031-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\largeStump.png</Source>
+      <Name>Levels\World3\largeStump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\largeStump.xnb</Output>
+      <Time>2010-08-15T16:56:35.5500312-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\oneSpke.png</Source>
+      <Name>Levels\World3\oneSpke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\oneSpke.xnb</Output>
+      <Time>2010-08-29T23:21:03.5986328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\smallStump.png</Source>
+      <Name>Levels\World3\smallStump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\smallStump.xnb</Output>
+      <Time>2010-08-15T16:31:31.5519843-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\snowLeftEdge.png</Source>
+      <Name>Levels\World3\snowLeftEdge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\snowLeftEdge.xnb</Output>
+      <Time>2010-08-29T23:37:21.053711-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\snowLong.png</Source>
+      <Name>Levels\World3\snowLong</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\snowLong.xnb</Output>
+      <Time>2010-08-29T23:01:35.4121094-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\verBoard.png</Source>
+      <Name>Levels\World3\verBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\verBoard.xnb</Output>
+      <Time>2010-08-29T17:29:06.1279297-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\art.png</Source>
+      <Name>Levels\TheEnd\art</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\art.xnb</Output>
+      <Time>2010-09-08T22:16:43.7783203-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\black.png</Source>
+      <Name>Levels\TheEnd\black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\black.xnb</Output>
+      <Time>2010-09-05T23:34:02.7980468-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\by.png</Source>
+      <Name>Levels\TheEnd\by</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\by.xnb</Output>
+      <Time>2010-09-05T23:55:52.1164062-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\createdBy.png</Source>
+      <Name>Levels\TheEnd\createdBy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\createdBy.xnb</Output>
+      <Time>2010-09-05T23:53:07.8283203-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\enemies.png</Source>
+      <Name>Levels\TheEnd\enemies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\enemies.xnb</Output>
+      <Time>2010-09-08T22:17:21.4882813-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\fading.png</Source>
+      <Name>Levels\TheEnd\fading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\fading.xnb</Output>
+      <Time>2010-09-05T23:30:29.0890625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\gameEngine.png</Source>
+      <Name>Levels\TheEnd\gameEngine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\gameEngine.xnb</Output>
+      <Time>2010-09-08T22:18:13.0800782-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\grassLeftEnd.png</Source>
+      <Name>Levels\TheEnd\grassLeftEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\grassLeftEnd.xnb</Output>
+      <Time>2010-07-29T12:32:00.5-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\grassMiddle.png</Source>
+      <Name>Levels\TheEnd\grassMiddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\grassMiddle.xnb</Output>
+      <Time>2010-07-24T23:34:26.2714843-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\grassRighEnd.png</Source>
+      <Name>Levels\TheEnd\grassRighEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\grassRighEnd.xnb</Output>
+      <Time>2010-07-29T12:29:44.2675781-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\halfGround.png</Source>
+      <Name>Levels\TheEnd\halfGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\halfGround.xnb</Output>
+      <Time>2010-07-29T11:47:56.7744141-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\music.png</Source>
+      <Name>Levels\TheEnd\music</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\music.xnb</Output>
+      <Time>2010-09-06T00:04:53.5783203-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\robLouie.png</Source>
+      <Name>Levels\TheEnd\robLouie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\robLouie.xnb</Output>
+      <Time>2010-09-08T22:19:03.6728516-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\helpScreen.png</Source>
+      <Name>MainMenu\helpScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\MainMenu\helpScreen.xnb</Output>
+      <Time>2010-09-09T21:19:47.65625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DemoMode\buyNow.png</Source>
+      <Name>DemoMode\buyNow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\DemoMode\buyNow.xnb</Output>
+      <Time>2010-09-09T21:36:46.7246093-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DemoMode\levels.png</Source>
+      <Name>DemoMode\levels</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\DemoMode\levels.xnb</Output>
+      <Time>2010-09-09T21:41:54.1923828-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DemoMode\price.png</Source>
+      <Name>DemoMode\price</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\DemoMode\price.xnb</Output>
+      <Time>2010-09-09T21:51:31.1289062-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\level1.xml</Source>
+      <Name>Levels\World1\level1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\level1.xnb</Output>
+      <Time>2010-09-09T10:46:45.9052734-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\level2.xml</Source>
+      <Name>Levels\World1\level2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\level2.xnb</Output>
+      <Time>2010-09-09T11:48:53.2304687-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World1\level3.xml</Source>
+      <Name>Levels\World1\level3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World1\level3.xnb</Output>
+      <Time>2010-09-09T11:56:05.6884765-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\level4.xml</Source>
+      <Name>Levels\World2\level4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\level4.xnb</Output>
+      <Time>2010-08-24T00:30:12.2353515-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\level5.xml</Source>
+      <Name>Levels\World2\level5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\level5.xnb</Output>
+      <Time>2010-08-24T22:16:38.7822266-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World2\level6.xml</Source>
+      <Name>Levels\World2\level6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World2\level6.xnb</Output>
+      <Time>2010-08-28T01:20:45.7529297-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\level7.xml</Source>
+      <Name>Levels\World3\level7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\level7.xnb</Output>
+      <Time>2010-09-02T20:04:09.3183594-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\level8.xml</Source>
+      <Name>Levels\World3\level8</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\level8.xnb</Output>
+      <Time>2010-09-03T13:33:36.0449219-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\World3\level9.xml</Source>
+      <Name>Levels\World3\level9</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\World3\level9.xnb</Output>
+      <Time>2010-09-08T23:51:01.7792969-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\TheEnd\level10.xml</Source>
+      <Name>Levels\TheEnd\level10</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\Levels\TheEnd\level10.xnb</Output>
+      <Time>2010-09-09T00:03:41.8056641-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\buy.png</Source>
+      <Name>MainMenu\buy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\MainMenu\buy.xnb</Output>
+      <Time>2010-09-12T18:21:39.8798828-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\buyHighlighted.png</Source>
+      <Name>MainMenu\buyHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\MainMenu\buyHighlighted.xnb</Output>
+      <Time>2010-09-12T18:21:03.2792969-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\buySelected.png</Source>
+      <Name>MainMenu\buySelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\MainMenu\buySelected.xnb</Output>
+      <Time>2010-09-12T18:45:02.9257813-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\LevelSettings\bin\x86\Debug\LevelSettings.dll</Key>
+        <Value>2010-09-12T17:27:16.6396485-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Game\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Game.dll</Key>
+        <Value>2010-05-05T15:54:33.359375-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-05-05T15:57:25.3642578-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

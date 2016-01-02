@@ -1,0 +1,4 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Share\WindowsGame2\WindowsGame2\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Visual Studio 2008\Projects\WindowsGame2\WindowsGame2\Content\obj\Xbox 360\Debug\Audio\GameAudio.xml
